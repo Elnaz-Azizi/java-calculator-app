@@ -1,4 +1,4 @@
-package se.lexicon.part1.workshop.solution1;
+package lexicon.se.solution1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

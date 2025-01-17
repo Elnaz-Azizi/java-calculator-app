@@ -2,7 +2,7 @@ package lexicon.se.solution2;
 
 import java.util.Scanner;
 
-public class CalculatorConsole {
+public class NewCalculatorConsole {
 
     public static void main(String... args) {
         double currentResult = 0; // Store the running total/result
